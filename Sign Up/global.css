@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-figma-hand: "Figma Hand";
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-gray-100: rgba(255, 255, 255, 0.5);
+  --color-turquoise: #50d1bf;
+  --color-white: #fff;
+  --color-gainsboro: #d9d9d9;
+
+  /* Border radiuses */
+  --br-mini: 15px;
+}
